@@ -1,8 +1,4 @@
 # github-workflow
 
-The snozberries taste like snozberries.
-:)
-There is nothing permanent, except change.
-
-To improve is to change
+There is always something permanent, except change!
 
